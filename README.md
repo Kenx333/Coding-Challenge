@@ -81,7 +81,7 @@ Dim maxValue As Integer
     'Increments to the next letter
     Next counter
     
-'Returns result
+ 'Returns result
 romanToDecimal = result
 
 'End of romanToDecimal function
@@ -124,5 +124,4 @@ End Function
     'This challange stretched the limits of my abillities, so I turned to the internet to better understand concepts to be able to approach the project more confidently.
     'I got a deeper understanding of functions and I was able to implement them succesfully.
     'Because my experince is limited this challenge was among the most complexs and difficult that I have taken on, but I am passionate about coding and cannot wait to see what I learn next.
-    
     
